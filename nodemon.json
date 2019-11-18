@@ -1,0 +1,8 @@
+{
+  "verbose": true,
+  "ignore": [".tmp"],
+  "watch": ["./src/**/*.ts", "./typings/**/*.d.ts"],
+  "delay": "0",
+  "restartable": "rs",
+  "ext": "js,json,ts"
+}
